@@ -20,6 +20,11 @@ News channels generate a large amount of live streaming data. Analyzing viewer e
 * GitHub
 
 ## Data Pipeline Architecture
+## Project Workflow
+
+![Workflow](Architecture%20Diagram/workflow.png)
+## Dashboard Preview
+![Dashboard](Architecture%20Diagram/dashboard.png)
 
 ### Bronze Layer (Raw Data)
 
@@ -50,9 +55,6 @@ Fact Table:
 Dimension Tables:
 
 * Dim_Channel
-* Dim_Date
-* Dim_Time
-* Dim_Video
 
 ### Dashboard & Analytics
 
@@ -73,7 +75,7 @@ Created interactive Azure Dashboards for:
 4. Save Processed Data as Parquet
 5. Create Star Schema
 6. Load Data into Gold Layer
-7. Build Azure Dashboard
+7. Build PowerBI Dashboard
 8. Generate Business Insights
 
 ## Key Features
