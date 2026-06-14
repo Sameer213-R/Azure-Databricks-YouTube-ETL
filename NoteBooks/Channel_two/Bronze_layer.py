@@ -18,7 +18,7 @@ import os
 
 
 # ---- CONFIG ----
-API_KEY = "AIzaSyAmhArNoBPBi2Zgm2nFq3sNXfElyayIyBQ"  # Your YouTube API key
+API_KEY = ""  # Your YouTube API key
 JSON_DIR = "/Volumes/youtub_data_catalog/youtube_data_house/soure_file/"
 JSON_FILE = "Channel_two_live_data.json"
 JSON_PATH = os.path.join(JSON_DIR, JSON_FILE)
