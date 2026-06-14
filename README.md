@@ -24,7 +24,7 @@ News channels generate a large amount of live streaming data. Analyzing viewer e
 
 ![Workflow](Architecture%20Diagram/workflow.png)
 ## Dashboard Preview
-![Dashboard](Architecture%20Diagram/dashboard.png)
+![Dashboard](Architecture%20Diagram/dashboar.png)
 
 ### Bronze Layer (Raw Data)
 
